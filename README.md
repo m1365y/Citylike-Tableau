@@ -1,4 +1,4 @@
-# Citylike-Tableau
+# CityBike-Tableau
 As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the most extensive bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 This project aims to examine how the COVID-19 pandemic has affected the Citi Bike ride-sharing app in New York City. Specifically, the project focuses on comparing the ridership data from April 2019 and April 2020, during the height of the pandemic. 
 
